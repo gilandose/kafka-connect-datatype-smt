@@ -1,0 +1,1 @@
+# kafka-connect-datatype-smt
